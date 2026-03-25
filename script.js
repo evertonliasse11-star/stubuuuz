@@ -31,7 +31,7 @@ const DEFAULT_SETTINGS = {
     timezone: 'auto',
     ollamaUrl: 'http://127.0.0.1:3030', // Proxy server URL — update with your public URL (e.g., ngrok URL) when publishing
     ollamaModel: 'gpt-4o',
-    aiProvider: 'ollama', // 'ollama' or 'puter'
+    aiProvider: 'puter', // 'ollama' or 'puter'
     aiCharacter: 'assistant',
     aiConscience: 'moderate',
     language: 'en'
